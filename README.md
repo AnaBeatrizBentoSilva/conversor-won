@@ -1,6 +1,6 @@
 # Imersão Dev - Conversor de Won
 
-Este repositório contém o projeto desenvolvido durante a Imersão Dev da Alura. Uma experiência intensa e prática, composta por cinco aulas, focada no desenvolvimento de habilidades em HTML, CSS e JavaScript.
+Projeto desenvolvido durante a Imersão Dev da Alura, com foco na introdução à lógica de programação utilizando HTML, CSS e JavaScript. A aplicação permite converter valores em wons coreanos (KRW) para reais (BRL) de forma simples e prática.
 
 ## 🚀 Objetivo
 Construir um conversor de moeda que transforma valores de Wons para Reais, utilizando:
@@ -9,8 +9,10 @@ Construir um conversor de moeda que transforma valores de Wons para Reais, utili
 - JavaScript: Lógica de conversão e interatividade.
 
 ## 🔒 Conceitos Abordados
-- Manipulação do DOM com JavaScript.
-- Conversão de valores monetários.
+- Captura de valores com prompt.
+- Realização de cálculos matemáticos com JavaScript.
+- Exibição de mensagens com alert.
+- Manipulação básica do DOM.
 
 ## 📂 Estrutura do Repositório
 
